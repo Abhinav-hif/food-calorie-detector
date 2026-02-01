@@ -1,5 +1,5 @@
 // Configuration - REPLACE WITH YOUR API KEY!
-const GEMINI_API_KEY = 'AIzaSyA-L02WWMNZFZWCZqbyGv4oXN2DKcYZs8Q'; // Replace with your actual API key
+const GEMINI_API_KEY = ''; // Replace with your actual API key
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 // DOM Elements
@@ -430,3 +430,4 @@ function resetApp() {
 // Log app initialization
 console.log('🍎 Food Calorie Detector initialized!');
 console.log('📝 Don\'t forget to set your Gemini API key in script.js');
+
